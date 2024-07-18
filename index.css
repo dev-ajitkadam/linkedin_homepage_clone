@@ -90,7 +90,7 @@ ul > li{
     
 }
 .div1{
-   background-image: url("./media/background.jpg");
+   background-image: url("./background.jpg");
    height: 5rem;
    border-radius: 5px 5px 0px 0px ;
    -webkit-border-radius: 5px 5px 0px 0px ;
